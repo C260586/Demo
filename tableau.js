@@ -4,7 +4,7 @@ var http = require("https");
 var https = require("https");
 var http = require("http");
 
-// token and tableau credential
+// token and tableau credential new updateCommands
 
 
 const credential = {
